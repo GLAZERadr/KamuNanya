@@ -1,0 +1,33 @@
+body {
+    width : 90%;
+    margin : 0 auto;
+}
+
+header {
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.logo-row {
+    text-align: center;
+}
+
+.logo {
+    width : 250px;
+    height : 150px;
+    text-align: center;
+}
+
+
+
+.container {
+    background-color: #168AAD;
+    align-items: center;
+}
+
+.button:hover {
+    background-color: #52b69a;
+    transition: 0.5s;
+    padding: 6px 15px;
+    border-radius: 20px;
+}
